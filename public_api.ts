@@ -1,0 +1,1 @@
+export { AppLoaderModule } from './src/app/app.module';
